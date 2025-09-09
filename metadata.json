@@ -1,0 +1,5 @@
+{
+  "name": "Text Corruptor",
+  "description": "A tool to apply various creative and destructive corruption effects to user-provided text. Control the intensity and methods, from leet-speak to glitched text, and even get AI-powered suggestions for new corruption styles.",
+  "requestFramePermissions": []
+}
